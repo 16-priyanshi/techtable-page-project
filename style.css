@@ -1,24 +1,22 @@
-.header{
-    margin:5%;
-    margin-bottom: 5%;
-    border: none;
-    font-size: 30px;
-    color:rgb(1, 1, 172);
+.box{
+    margin: 10px;
+    padding:5px;
 }
 
-.content{
-    color:rgb(5, 5, 70);
+.row{
+    margin:7px;
+    margin-top: 20px;
+}
+
+#details{
+    border-left: 2px solid rgb(8, 79, 126);
+}
+
+.text{
     font-weight: bold;
-    font-size: 20px;
+    font-size: large;
 }
 
-.col-7{
-   border-right: 2px solid rgb(8, 79, 126);
-}
-
-
-.col{
-    font-size: 15px;
-    font-weight: bold;
-    padding: 2%;
+#socialmedia{
+  padding: 0 auto;
 }
